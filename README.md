@@ -1,7 +1,6 @@
 <H3>ABDUR RAHMAN BASIL A H</H3>
 <H3>212223040002</H3>
 <H3>EX. NO.5</H3>
-<H3>27/04/2025</H3>
 <H1 ALIGN =CENTER>Implementation of XOR  using RBF</H1>
 <H3>Aim:</H3>
 To implement a XOR gate classification using Radial Basis Function  Neural Network.
